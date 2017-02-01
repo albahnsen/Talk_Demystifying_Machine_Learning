@@ -1,0 +1,11 @@
+,accuracy,parameters
+Logistic Regression,0.9201,7840
+Decision Tree,0.8664,1703
+Naive Bayes,0.8357,7840
+Simple Random Forest,0.9314,16572
+Gradient Boosting,0.9487,14798
+Support Vector Machines,0.9446,19626
+Simple Neural Network,0.9556,496250
+Complex Neural Network,0.9874,886875
+Convolutional Neural Network,0.9928,1018698
+Complex Random Forest,0.9689,498536
