@@ -5,4 +5,6 @@ Machine learning models are often dismissed on the grounds of lack of interpreta
 
 In this talk I present a case study of the LIME model. LIME stands for Local Interpretable Model-agnostic Explanations, and its objective is to explain the result from any classifier so that a human can understand individual predictions.
 
+[Notebook](http://nbviewer.jupyter.org/github/albahnsen/Talk_Demystifying_Machine_Learning/blob/master/Demystifying_Machine_Learning_using_LIME.ipynb)
+
 [Slides of this talk](http://www.slideshare.net/albahnsen/demystifying-machine-learning-using-lime)
